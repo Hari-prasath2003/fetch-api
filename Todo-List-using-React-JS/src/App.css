@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+.App
+{
+    background-image: linear-gradient(purple,black);
+  background-repeat: no-repeat;
+    padding-left: 27%;
+    /* padding-right: 337px; */
+    padding-top: 20px;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+}
+.App h1
+{
+    font-size: 40px;
+    letter-spacing: 10px;
+    color: white;
+}
